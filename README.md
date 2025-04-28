@@ -30,3 +30,11 @@ Make sure you have **Node.js** and **npm** installed on your computer. You can d
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/recipe-finder-app.git
+
+## Screenshot
+![App Screenshot](https://github.com/aneesh-acharyeah/react-recipe-finder/blob/main/recipe-finder.png) 
+
+
+
+
+
